@@ -1,0 +1,27 @@
+{
+    "bm": "👹 Black Market 👹",
+
+    "weapons": "Weapons",
+    "weapons_title": "🔫 Weapons 🔫",
+    "weapons_desc": "Buy your weapons here",
+    "gun": "SNS Pistol",
+    "stone_hatchet": "Stone Hatchet",
+    "machete": "Machete",
+    "switchblade": "Switchblade",
+    "knuckle": "Knuckle Dusters",
+
+    "weapons_comp": "Weapons Components",
+    "weapons_comp_title": "⛓️ Weapons Components ⛓️",
+    "weapons_comp_desc": "Buy your weapons components here",
+    "extended_pistol_clip": "Extended Pistol Clip",
+    "skin_wood": "Wood Weapon Kit",
+
+    "others": "Others",
+    "others_title": "🧿 Others 🧿",
+    "others_desc": "Buy your others things here",
+
+    "price": "Price: %s",
+    "talk": "Talk",
+
+    "notify_desc": "You don't have enough money !"
+}

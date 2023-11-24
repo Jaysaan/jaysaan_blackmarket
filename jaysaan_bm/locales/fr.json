@@ -1,0 +1,27 @@
+{
+    "bm": "👹 Black Market 👹",
+
+    "weapons": "Catégorie Armes",
+    "weapons_title": "🔫 Catégorie Armes 🔫",
+    "weapons_desc": "Achetez vos armes ici",
+    "gun": "Pistolet SNS",
+    "stone_hatchet": "Hache de pierre",
+    "machete": "Machette",
+    "switchblade": "Cran d'arrêt",
+    "knuckle": "Poing Américain",
+
+    "weapons_comp": "Composants d'Armes",
+    "weapons_comp_title": "⛓️ Composants d'Armes ⛓️",
+    "weapons_comp_desc": "Achetez vos composants d’armes ici",
+    "extended_pistol_clip": "Chargeur à Grande Capacité",
+    "skin_wood": "Camouflage bois",
+
+    "others": "Autres",
+    "others_title": "🧿 Autres 🧿",
+    "others_desc": "Achetez vos autres objets ici",
+
+    "price": "Prix: %s",
+    "talk": "Parler",
+
+    "notify_desc": "Vous n'avez pas assez d'argent !"
+}
